@@ -72,10 +72,10 @@
 	</build>
 <distributionManagement>
     <repository>
-        <id>central</id>
-        <name>a0nymgefaiwwu-artifactory-primary-0-releases</name>
+        <id>jfrog-artifactory</id>
+        <name>JFrog Release Repository</name>
         <url>https://edshopdpt8.jfrog.io/artifactory/libs-release-local</url>
     </repository>
-</distributionManagement> 
+</distributionManagement>
 
 </project>
